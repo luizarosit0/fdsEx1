@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class CodificadorJulia implements Codificador{
     public String getNome() {
-        return "Codificador Julia";
+        return "Julia";
     }
 
     public LocalDate getDataCriacao() {

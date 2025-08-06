@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class CodificadorAna implements Codificador {
     public String getNome() {
-        return "Codificador Ana";
+        return "Ana";
     }
 
     public LocalDate getDataCriacao() {
